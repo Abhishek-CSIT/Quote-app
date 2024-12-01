@@ -1,0 +1,1 @@
+Quote app  gives you a refreshing quote Everyday.
